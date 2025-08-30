@@ -9,7 +9,7 @@
           "id": "1_1",
           "title": "Atlanta Hawks",
           "href": "https://www.nba.com/hawks/",
-          "description": "Vercel 提供开发者工具和云基础设施，帮助构建、扩展和保护更快、更个性化的网络应用。",
+            "description": "The Atlanta Hawks are a professional basketball team based in Atlanta, Georgia, competing in the NBA.",
           "icon": "/assets/logo-nba/atlanta_hawks_logo.png",
           "enabled": true
         },
@@ -17,84 +17,356 @@
           "id": "1_2",
           "title": "Boston Celtics",
           "href": "https://www.nba.com/celtics/",
-          "description": "波士顿凯尔特人队（Boston Celtics）是美国职业篮球联赛（NBA）的一支球队，成立于1946年，总部位于马萨诸塞州波士顿。",
+            "description": "The Boston Celtics are a professional basketball team based in Boston, Massachusetts, founded in 1946 and competing in the NBA.",
           "icon": "/assets/logo-nba/boston_celtics_logo.png",
           "enabled": true
         },
         {
           "id": "1_3",
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/",
-          "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
-          "icon": "/assets/images/logos/cloudflar.ico",
+          "title": "Brooklyn Nets",
+          "href": "https://www.nba.com/nets/",
+          "description": "The Brooklyn Nets are a professional basketball team based in Brooklyn, New York, competing in the NBA.",
+          "icon": "/assets/logo-nba/brooklyn_nets_logo.png",
           "enabled": true
         },
         {
           "id": "1_4",
-          "title": "Google AdSense",
-          "href": "https://www.google.com/adsense/",
-          "description": "Google AdSense广告服务。",
-          "icon": "/assets/images/logos/gads.ico",
+          "title": "Charlotte Hornets",
+          "href": "https://www.nba.com/hornets/",
+          "description": "The Charlotte Hornets are a professional basketball team based in Charlotte, North Carolina, competing in the NBA.",
+          "icon": "/assets/logo-nba/charlotte_hornets_logo.png",
           "enabled": true
         },
         {
           "id": "1_5",
-          "title": "Producthunt",
-          "href": "https://www.producthunt.com/",
-          "description": "发现新鲜有趣的产品",
-          "icon": "/assets/images/logos/producthunt.png",
+          "title": "Chicago Bulls",
+          "href": "https://www.nba.com/bulls/",
+          "description": "The Chicago Bulls are a professional basketball team based in Chicago, Illinois, competing in the NBA.",
+          "icon": "/assets/logo-nba/chicago_bulls_logo.png",
           "enabled": true
         },
         {
           "id": "1_6",
-          "title": "Leonardo.AI",
-          "href": "https://app.leonardo.ai/",
-          "description": "Leonardo.AI是一个人工智能绘图社区和工具。它基于Stable Diffusion人工智能模型,深度集成了其各种插件,提供强大的图片生成和创作功能。",
-          "icon": "/assets/images/logos/leonardo.ico",
+          "title": "Cleveland Cavaliers",
+          "href": "https://www.nba.com/cavaliers/",
+          "description": "The Cleveland Cavaliers are a professional basketball team based in Cleveland, Ohio, competing in the NBA.",
+          "icon": "/assets/logo-nba/cleveland_cavaliers_logo.png",
           "enabled": true
         },
         {
           "id": "1_7",
-          "title": "Tensor.art",
-          "href": "https://tensor.art/",
-          "description": "Tensor.art是一个免费的在线图像生成和模型托管平台。",
-          "icon": "/assets/images/logos/tensorart.ico",
+          "title": "Dallas Mavericks",
+          "href": "https://www.nba.com/mavericks/",
+          "description": "The Dallas Mavericks are a professional basketball team based in Dallas, Texas, competing in the NBA.",
+          "icon": "/assets/logo-nba/dallas_mavericks_logo.png",
           "enabled": true
         },
         {
-          "id": "1735119857233",
-          "title": "截图美化工具",
-          "href": "https://shots.so/",
-          "description": "截图美化，套上不同设备的壳，浏览器、iPhone、iPad、MacBook，Apple Watch",
-          "icon": "/assets/images/logos/shots.webp",
+          "id": "1_8",
+          "title": "Denver Nuggets",
+          "href": "https://www.nba.com/nuggets/",
+          "description": "The Denver Nuggets are a professional basketball team based in Denver, Colorado, competing in the NBA.",
+          "icon": "/assets/logo-nba/denver_nuggets_logo.png",
           "enabled": true
         },
         {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
+          "id": "1_9",
+          "title": "Detroit Pistons",
+          "href": "https://www.nba.com/pistons/",
+          "description": "The Detroit Pistons are a professional basketball team based in Detroit, Michigan, competing in the NBA.",
+          "icon": "/assets/logo-nba/detroit_pistons_logo.png",
           "enabled": true
         },
         {
-          "id": "item-1754218579319",
+          "id": "1_10",
           "enabled": true,
-          "title": "DeepSeek - 探索未至之境",
-          "href": "https://chat.deepseek.com/",
-          "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-          "icon": "/assets/favicon_1754218571142.svg"
+          "title": "Golden State Warriors",
+          "href": "https://www.nba.com/warriors/",
+          "description": "The Golden State Warriors are a professional basketball team based in San Francisco, California, competing in the NBA.",
+          "icon": "/assets/logo-nba/golden_state_warriors_logo.png"
         },
         {
-          "id": "1754229699374",
-          "title": "Lucide",
-          "href": "https://lucide.dev/",
-          "description": "Beautiful & consistent icon toolkit made by the community.",
-          "icon": "/assets/favicon_1754229702059.ico",
+          "id": "1_11",
+          "title": "Houston Rockets",
+          "href": "https://www.nba.com/rockets/",
+          "description": "The Houston Rockets are a professional basketball team based in Houston, Texas, competing in the NBA.",
+          "icon": "/assets/logo-nba/houston_rockets_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_12",
+          "title": "Indiana Pacers",
+          "href": "https://www.nba.com/pacers/",
+          "description": "The Indiana Pacers are a professional basketball team based in Indianapolis, Indiana, competing in the NBA.",
+          "icon": "/assets/logo-nba/indiana_pacers_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_13",
+          "title": "La Clippers",
+          "href": "https://www.nba.com/clippers/",
+          "description": "The Los Angeles Clippers are a professional basketball team based in Los Angeles, California, competing in the NBA.",
+          "icon": "/assets/logo-nba/la_clippers_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_14",
+          "title": "La Lakers",
+          "href": "https://www.nba.com/lakers/",
+          "description": "The Los Angeles Lakers are a professional basketball team based in Los Angeles, California, competing in the NBA.",
+          "icon": "/assets/logo-nba/la_lakers_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_15",
+          "title": "Memphis Grizzlies",
+          "href": "https://www.nba.com/grizzlies/",
+          "description": "The Memphis Grizzlies are a professional basketball team based in Memphis, Tennessee, competing in the NBA.",
+          "icon": "/assets/logo-nba/memphis_grizzlies_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_16",
+          "title": "miami Heat",
+          "href": "https://www.nba.com/heat/",
+          "description": "The Miami Heat are a professional basketball team based in Miami, Florida, competing in the NBA.",
+          "icon": "/assets/logo-nba/miami_heat_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_17",
+          "title": "milwaukee Bucks",
+          "href": "https://www.nba.com/bucks/",
+          "description": "The Milwaukee Bucks are a professional basketball team based in Milwaukee, Wisconsin, competing in the NBA.",
+          "icon": "/assets/logo-nba/milwaukee_bucks_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_18",
+          "title": "Minnesota Timberwolves",
+          "href": "https://www.nba.com/timberwolves/",
+          "description": "The Minnesota Timberwolves are a professional basketball team based in Minneapolis, Minnesota, competing in the NBA.",
+          "icon": "/assets/logo-nba/minnesota_timberwolves_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_19",
+          "title": "New Orleans Pelicans",
+          "href": "https://www.nba.com/pelicans/",
+          "description": "The New Orleans Pelicans are a professional basketball team based in New Orleans, Louisiana, competing in the NBA.",
+          "icon": "/assets/logo-nba/new_orleans_pelicans_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_20",
+          "title": "New York Knicks",
+          "href": "https://www.nba.com/knicks/",
+          "description": "The New York Knicks are a professional basketball team based in New York City, New York, competing in the NBA.",
+          "icon": "/assets/logo-nba/new_york_knicks_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_21",
+          "title": "oklahoma City Thunder",
+          "href": "https://www.nba.com/thunder/",
+          "description": "The Oklahoma City Thunder are a professional basketball team based in Oklahoma City, Oklahoma, competing in the NBA.",
+          "icon": "/assets/logo-nba/oklahoma_city_thunder_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_22",
+          "title": "Orlando Magic",
+          "href": "https://www.nba.com/magic/",
+          "description": "The Orlando Magic are a professional basketball team based in Orlando, Florida, competing in the NBA.",
+          "icon": "/assets/logo-nba/orlando_magic_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_23",
+          "title": "Philadelphia 76ers",
+          "href": "https://www.nba.com/sixers/",
+          "description": "The Philadelphia 76ers are a professional basketball team based in Philadelphia, Pennsylvania, competing in the NBA.",
+          "icon": "/assets/logo-nba/philadelphia_76ers_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_24",
+          "title": "Phoenix Suns",
+          "href": "https://www.nba.com/suns/",
+          "description": "The Phoenix Suns are a professional basketball team based in Phoenix, Arizona, competing in the NBA.",
+          "icon": "/assets/logo-nba/phoenix_suns_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_25",
+          "title": "Portland Trail Blazers",
+          "href": "https://www.nba.com/blazers/",
+          "description": "The Portland Trail Blazers are a professional basketball team based in Portland, Oregon, competing in the NBA.",
+          "icon": "/assets/logo-nba/portland_trail_blazers_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_26",
+          "title": "Sacramento Kings",
+          "href": "https://www.nba.com/kings/",
+          "description": "The Sacramento Kings are a professional basketball team based in Sacramento, California, competing in the NBA.",
+          "icon": "/assets/logo-nba/sacramento_kings_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_27",
+          "title": "San Antonio Spurs",
+          "href": "https://www.nba.com/spurs/",
+          "description": "The San Antonio Spurs are a professional basketball team based in San Antonio, Texas, competing in the NBA.",
+          "icon": "/assets/logo-nba/san_antonio_spurs_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_28",
+          "title": "Toronto Raptors",
+          "href": "https://www.nba.com/raptors/",
+          "description": "The Toronto Raptors are a professional basketball team based in Toronto, Ontario, Canada, competing in the NBA.",
+          "icon": "/assets/logo-nba/toronto_raptors_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_29",
+          "title": "Utah Jazz",
+          "href": "https://www.nba.com/jazz/",
+          "description": "The Utah Jazz are a professional basketball team based in Salt Lake City, Utah, competing in the NBA.",
+          "icon": "/assets/logo-nba/utah_jazz_logo.png",
+          "enabled": true
+        },
+        {
+          "id": "1_30",
+          "title": "Washington Wizards",
+          "href": "https://www.nba.com/wizards/",
+          "description": "The Washington Wizards are a professional basketball team based in Washington, D.C., competing in the NBA.",
+          "icon": "/assets/logo-nba/washington_wizards_logo.png",
           "enabled": true
         }
       ],
       "subCategories": [],
+      "description": "",
+      "enabled": true
+    },{
+      "id": "2",
+      "title": "Technology Logos",
+      "icon": "linecons-thumbs-up",
+      "items": [],
+      "subCategories": [
+        {
+          "id": "2_1",
+          "title": "Company Logos",
+          "href": "#公司标志",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "2_1_1",
+              "title": "Amazon Logo",
+              "href": "https://www.amazon.com",
+              "description": "Shop at Amazon for electronics, apparel, toys, and more.",
+              "icon": "/assets/logo-tech/amazon_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_2",
+              "title": "Apple Logo",
+              "href": "https://www.apple.com",
+              "description": "Visit Apple for the latest products and innovations.",
+              "icon": "/assets/logo-tech/apple_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_3",
+              "title": "Google Logo",
+              "href": "https://www.google.com",
+              "description": "Visit Google for search, news, and more.",
+              "icon": "/assets/logo-tech/google_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_4",
+              "title": "Microsoft Logo",
+              "href": "https://www.microsoft.com",
+              "description": "Visit Microsoft for software, devices, and services.",
+              "icon": "/assets/logo-tech/microsoft_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_5",
+              "title": "LinkedIn Logo",
+              "href": "https://www.linkedin.com",
+              "description": "Visit LinkedIn for professional networking.",
+              "icon": "/assets/logo-tech/linkedin_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_6",
+              "title": "Facebook Logo",
+              "href": "https://www.facebook.com",
+              "description": "Visit Facebook for social networking.",
+              "icon": "/assets/logo-tech/facebook_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_7",
+              "title": "Twitter Logo",
+              "href": "https://www.twitter.com",
+              "description": "Visit Twitter for microblogging and social networking.",
+              "icon": "/assets/logo-tech/twitter_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_8",
+              "title": "Instagram Logo",
+              "href": "https://www.instagram.com",
+              "description": "Visit Instagram for photo and video sharing.",
+              "icon": "/assets/logo-tech/instagram_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_9",
+              "title": "Pinterest Logo",
+              "href": "https://www.pinterest.com",
+              "description": "Visit Pinterest for image sharing and inspiration.",
+              "icon": "/assets/logo-tech/pinterest_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_10",
+              "title": "Snapchat Logo",
+              "href": "https://www.snapchat.com",
+              "description": "Visit Snapchat for multimedia messaging.",
+              "icon": "/assets/logo-tech/snapchat_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_11",
+              "title": "TikTok Logo",
+              "href": "https://www.tiktok.com",
+              "description": "Visit TikTok for short-form mobile videos.",
+              "icon": "/assets/logo-tech/tiktok_logo.png",
+              "enabled": true
+            },{
+              "id": "2_1_12",
+              "title": "YouTube Logo",
+              "href": "https://www.youtube.com",
+              "description": "Visit YouTube for video sharing and streaming.",
+              "icon": "/assets/logo-tech/youtube_logo.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "2_2",
+          "title": "Company Logos",
+          "href": "#公司标志",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "2_2_1",
+              "title": "Amazon Logo",
+              "href": "https://www.amazon.com",
+              "description": "Shop at Amazon for electronics, apparel, toys, and more.",
+              "icon": "/assets/logo-tech/amazon_logo.png",
+              "enabled": true
+            }
+          ]
+        }
+      ],
       "description": "",
       "enabled": true
     }
