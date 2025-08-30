@@ -30,7 +30,8 @@ export function NavigationCard({ item }: NavigationCardProps) {
         <TooltipTrigger asChild>
           <Card className="overflow-hidden transition-all duration-300 ease-in-out transform hover:-translate-y-1 hover:shadow-lg">
             <Link
-              href={item.href}
+              // href={`../logo/${item.title} .html`}
+              href={"../logo/logohome.html"}
               target="_blank"
               rel="noopener noreferrer"
               className="block h-full"

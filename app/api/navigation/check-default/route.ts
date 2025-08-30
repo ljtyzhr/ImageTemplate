@@ -4,6 +4,8 @@ import { getFileContent } from '@/lib/github'
 
 export const runtime = 'edge'
 
+const navigation_default_json = 'navsphere/content/logo-home.json'
+
 export async function GET() {
   try {
     const session = await auth()
@@ -12,7 +14,7 @@ export async function GET() {
     }
 
     try {
-      const defaultData = await getFileContent('navsphere/content/navigation-default.json')
+      const defaultData = await getFileContent(navigation_default_json)
       
       // 验证文件格式
       const isValid = defaultData && 

@@ -3,7 +3,7 @@ import { Metadata } from 'next/types'
 import { ScrollToTop } from '@/components/ScrollToTop'
 import { Container } from '@/components/ui/container'
 import type { SiteConfig } from '@/types/site'
-import navigationData from '@/navsphere/content/navigation.json'
+import navigationData from '@/navsphere/content/logo-home.json'
 import siteDataRaw from '@/navsphere/content/site.json'
 
 function getData() {
